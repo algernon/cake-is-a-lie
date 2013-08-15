@@ -3,6 +3,7 @@ Section: games
 Priority: extra
 Maintainer: Gergely Nagy <algernon@madhouse-project.org>
 Standards-Version: 3.9.4
+Build-Depends: debhelper (>= 9~), dh-autoreconf, libcaca-dev, libimlib2-dev, pkg-config
 Vcs-Git: https://github.com/algernon/cake-is-a-lie.git
 Vcs-Browser: https://github.com/algernon/cake-is-a-lie
 
