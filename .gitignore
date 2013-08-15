@@ -8,3 +8,11 @@
 /depcomp
 /install-sh
 /missing
+/Makefile
+/config.h
+/config.status
+/src/cake-is-a-lie
+*.o
+/stamp-h1
+.deps/
+.dirstamp
