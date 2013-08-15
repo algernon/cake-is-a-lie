@@ -6,4 +6,4 @@ src_cake_is_a_lie_CFLAGS	= ${caca_CFLAGS} ${imlib2_CFLAGS} \
 				-DDATADIR="\"${pkgdatadir}\""
 src_cake_is_a_lie_LDFLAGS	= ${caca_LIBS} ${imlib2_LIBS}
 
-EXTRA_DIST			= COPYING
+EXTRA_DIST			= COPYING ${pkgdata_DATA}
