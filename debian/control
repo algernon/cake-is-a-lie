@@ -1,0 +1,15 @@
+Source: cake-is-a-lie
+Section: games
+Priority: extra
+Maintainer: Gergely Nagy <algernon@madhouse-project.org>
+Standards-Version: 3.9.4
+Vcs-Git: https://github.com/algernon/cake-is-a-lie.git
+Vcs-Browser: https://github.com/algernon/cake-is-a-lie
+
+Package: cake-is-a-lie
+Section: games
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: The Cake is a Lie
+ A small demonstration of packaging, because that makes things so much
+ more fun!

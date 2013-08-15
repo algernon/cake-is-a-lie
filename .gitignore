@@ -16,3 +16,6 @@
 /stamp-h1
 .deps/
 .dirstamp
+/debian/autoreconf.*
+/debian/cake-is-a-lie*
+/debian/files
