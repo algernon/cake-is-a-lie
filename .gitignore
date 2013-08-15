@@ -1,0 +1,10 @@
+*.in
+*.m4
+*.cache
+*.log
+*~
+*.scan
+/configure
+/depcomp
+/install-sh
+/missing
